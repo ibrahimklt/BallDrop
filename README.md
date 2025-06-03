@@ -13,6 +13,7 @@ Jump the ball, avoid traps, and reach the portal!
 
 ## Developer
 👨‍💻 Ibrahim
-![Proje Görüntüsü](ScreenShot_2.png)
-![Proje Görüntüsü](ScreenShot_3.png)
-![Proje Görüntüsü](ScreenShot_4.png)
+![Proje Görüntüsü](BallDrop/Screenshot_2.png)
+![Proje Görüntüsü](BallDrop/Screenshot_3.png)
+![Proje Görüntüsü](BallDrop/Screenshot_4.png)
+
